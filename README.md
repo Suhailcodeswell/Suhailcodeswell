@@ -31,7 +31,8 @@ Python (pandas, scikit-learn) · SQL (PostgreSQL, DuckDB) · Power BI · HTML/CS
 
 ## Elsewhere
 
-The full portfolio lives in [the portfolio repo](https://github.com/Suhailcodeswell/portfolio).
+The full portfolio is live at [portfolio-xi-rosy-10.vercel.app](https://portfolio-xi-rosy-10.vercel.app),
+source in [the portfolio repo](https://github.com/Suhailcodeswell/portfolio).
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/suhail-ahmed-b75301232) or at
 [suhailahmedprof@gmail.com](mailto:suhailahmedprof@gmail.com).
